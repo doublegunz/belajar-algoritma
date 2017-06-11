@@ -1,1 +1,3 @@
-<?php echo 'hello world';
+<?php 
+$name = 'nadia';
+echo 'hello {$nadia}';
