@@ -11,7 +11,7 @@ This is repository for learn algorithm
 <h3>Using technology</h3>
 - PHP native
 
-</br>
+<br/>
 **Hope will usefull for you all.**
 
 Contact Me :
@@ -20,5 +20,4 @@ Contact Me :
 [![Website](https://img.shields.io/badge/doublegunz-Blog-brightgreen.svg?maxAge=3600)](https://recodeku.blogspot.com/)
 [![Facebook](https://img.shields.io/badge/doublegunz-Facebook-blue.svg?maxAge=3600)](https://www.facebook.com/gungunpriatna002) 
 
-
-[![Linkedin](https://img.shields.io/badge/gun-gun-priatna-05191b115.svg?maxAge=3600)](https://id.linkedin.com/in/gun-gun-priatna-05191b115) 
+[![Linkedin](https://img.shields.io/badge/gungunpriatna-Linkedin-0077b5.svg?maxAge=3600)](https://id.linkedin.com/in/gun-gun-priatna-05191b115) 
